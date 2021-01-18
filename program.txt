@@ -11,5 +11,5 @@ var float x;
    else
         x=x*3
    endif;
-   output  << x;
+   output<<x;
 }  $

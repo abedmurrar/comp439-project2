@@ -1,5 +1,11 @@
 package edu.birzeit;
 
+/**
+ * @author: Abed Al Rahman Murrar
+ * @id: 1140155
+ * @JDK: 14
+ */
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
