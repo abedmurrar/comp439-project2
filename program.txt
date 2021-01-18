@@ -1,0 +1,15 @@
+#include<iofile>;
+#include<libfile>;
+
+main()
+const float bi=3.14;
+var int num,count;
+var float x;
+{ input>>num;
+   if (num !=0)
+       x=bi*2
+   else
+        x=x*3
+   endif;
+   output  << x;
+}  $
